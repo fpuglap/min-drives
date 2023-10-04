@@ -16,9 +16,9 @@ or
 git clone https://github.com/fpuglap/min-drives.git
 ```
 
-### Run the Main Project
+### Run the main Project
 
-Navigate to the project directory:
+Navigate to the solution directory:
 
 ```
 cd MinDrives
