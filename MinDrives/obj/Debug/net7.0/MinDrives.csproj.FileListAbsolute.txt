@@ -1,0 +1,15 @@
+/home/fpuglap/Dev/MinDrives/MinDrives/bin/Debug/net7.0/MinDrives
+/home/fpuglap/Dev/MinDrives/MinDrives/bin/Debug/net7.0/MinDrives.deps.json
+/home/fpuglap/Dev/MinDrives/MinDrives/bin/Debug/net7.0/MinDrives.runtimeconfig.json
+/home/fpuglap/Dev/MinDrives/MinDrives/bin/Debug/net7.0/MinDrives.dll
+/home/fpuglap/Dev/MinDrives/MinDrives/bin/Debug/net7.0/MinDrives.pdb
+/home/fpuglap/Dev/MinDrives/MinDrives/obj/Debug/net7.0/MinDrives.csproj.AssemblyReference.cache
+/home/fpuglap/Dev/MinDrives/MinDrives/obj/Debug/net7.0/MinDrives.GeneratedMSBuildEditorConfig.editorconfig
+/home/fpuglap/Dev/MinDrives/MinDrives/obj/Debug/net7.0/MinDrives.AssemblyInfoInputs.cache
+/home/fpuglap/Dev/MinDrives/MinDrives/obj/Debug/net7.0/MinDrives.AssemblyInfo.cs
+/home/fpuglap/Dev/MinDrives/MinDrives/obj/Debug/net7.0/MinDrives.csproj.CoreCompileInputs.cache
+/home/fpuglap/Dev/MinDrives/MinDrives/obj/Debug/net7.0/MinDrives.dll
+/home/fpuglap/Dev/MinDrives/MinDrives/obj/Debug/net7.0/refint/MinDrives.dll
+/home/fpuglap/Dev/MinDrives/MinDrives/obj/Debug/net7.0/MinDrives.pdb
+/home/fpuglap/Dev/MinDrives/MinDrives/obj/Debug/net7.0/MinDrives.genruntimeconfig.cache
+/home/fpuglap/Dev/MinDrives/MinDrives/obj/Debug/net7.0/ref/MinDrives.dll
