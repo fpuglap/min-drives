@@ -4,8 +4,6 @@ public static class Program
 {
     public static void Main()
     {
-        // Console.ReadLine();
-
         Console.WriteLine("The example test cases are as follows:");
         PrintTestCases();
 
