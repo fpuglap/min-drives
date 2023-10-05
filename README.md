@@ -21,7 +21,7 @@ git clone https://github.com/fpuglap/min-drives.git
 Navigate to the solution directory:
 
 ```
-cd MinDrives
+cd min-drives
 ```
 
 Run the main project:
