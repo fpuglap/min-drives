@@ -2,7 +2,7 @@
 
 This is an optimization problem, the goal is to determine the minimum number of hard drives needed to consolidate the data.
 
-## Clone the Repository
+## Clone the repository
 
 To clone this repository to your local machine, run the following command in your terminal:
 
@@ -16,7 +16,7 @@ or
 git clone https://github.com/fpuglap/min-drives.git
 ```
 
-### Run the main Project
+### Run the main project
 
 Navigate to the solution directory:
 
@@ -30,7 +30,7 @@ Run the main project:
 dotnet run --project MinDrives
 ```
 
-### Run Tests
+### Run tests
 
 Run tests from the root of the solution:
 
